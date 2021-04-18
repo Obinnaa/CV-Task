@@ -1,0 +1,20 @@
+div.container {
+    border: 1px solid black;
+    width: 750px;
+    margin: auto;
+}
+table{
+    width: 700px;
+    margin: auto;
+}
+td{
+    padding: 10px;
+}
+.heading{
+    background-color: grey;
+    padding-left: 8px;
+}
+img{
+    width: auto;
+    height: 150px;
+}
